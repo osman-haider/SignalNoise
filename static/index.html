@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Signal/Noise — hybrid search demo</title>
+<link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+<div class="page">
+
+  <header class="header">
+    <h1>Signal/Noise</h1>
+    <p class="tagline">
+      A small hybrid search prototype: type an ambiguous term like
+      <em>navy</em> or <em>strike</em> and compare plain keyword search
+      against disambiguation-aware hybrid search on the same query.
+    </p>
+    <p class="note">
+      All ~100 documents in this corpus are synthetic and self-authored for
+      this demo — nothing here is real customer data, real news content, or
+      an observed complaint about any specific product.
+    </p>
+  </header>
+
+  <section class="search-panel">
+    <div class="search-row">
+      <input type="text" id="query-input" placeholder="Try: navy" autocomplete="off" />
+      <button class="primary" id="search-btn">Search</button>
+    </div>
+
+    <div class="mode-toggle">
+      <button id="mode-naive" class="active" data-mode="naive">Naive keyword search</button>
+      <button id="mode-hybrid" data-mode="hybrid">Hybrid + disambiguation</button>
+    </div>
+
+    <div class="suggested-queries" id="suggested-queries">
+      <!-- populated by app.js -->
+    </div>
+  </section>
+
+  <section class="disambiguation-panel" id="disambiguation-panel">
+    <div class="label">Why these results</div>
+    <div class="sense-row" id="sense-row"></div>
+    <div class="expansion-terms" id="expansion-terms"></div>
+    <div class="degraded-notice hidden" id="degraded-notice"></div>
+  </section>
+
+  <section class="results-panel">
+    <div class="results-summary" id="results-summary"></div>
+    <div id="results-list"></div>
+  </section>
+
+  <section class="eval-panel">
+    <h2>Evaluation harness</h2>
+    <p class="sub">
+      Runs the full curated test query set (ambiguous terms + a few
+      already-unambiguous control queries) through both modes and compares
+      Precision@10, Recall@10, and NDCG@10 against hand-labeled ground truth.
+    </p>
+    <button id="run-eval-btn">Run full evaluation</button>
+    <div id="eval-results"></div>
+  </section>
+
+  <footer>
+    Signal/Noise — a small, self-contained proof-of-concept built to
+    demonstrate hybrid search + IR evaluation. Not affiliated with, and not
+    a claim about, any specific company's production system.
+  </footer>
+
+</div>
+
+<script src="/app.js"></script>
+</body>
+</html>
