@@ -1,0 +1,681 @@
+[
+  {
+    "id": "navy_military_01",
+    "term": "navy",
+    "topic": "navy_military",
+    "is_military_relevant": true,
+    "text": "The navy confirmed that three destroyers completed a joint patrol near the strait this week."
+  },
+  {
+    "id": "navy_military_02",
+    "term": "navy",
+    "topic": "navy_military",
+    "is_military_relevant": true,
+    "text": "Naval analysts reported increased submarine activity by the regional navy along the coastline."
+  },
+  {
+    "id": "navy_military_03",
+    "term": "navy",
+    "topic": "navy_military",
+    "is_military_relevant": true,
+    "text": "The country's navy announced a modernization plan for its aging frigate fleet."
+  },
+  {
+    "id": "navy_military_04",
+    "term": "navy",
+    "topic": "navy_military",
+    "is_military_relevant": true,
+    "text": "Satellite imagery showed navy vessels conducting exercises in international waters."
+  },
+  {
+    "id": "navy_military_05",
+    "term": "navy",
+    "topic": "navy_military",
+    "is_military_relevant": true,
+    "text": "A navy spokesperson said the amphibious task force would remain deployed through the exercise period."
+  },
+  {
+    "id": "navy_military_06",
+    "term": "navy",
+    "topic": "navy_military",
+    "is_military_relevant": true,
+    "text": "The navy's fleet readiness report noted delays in resupplying forward-deployed ships."
+  },
+  {
+    "id": "navy_military_07",
+    "term": "navy",
+    "topic": "navy_military",
+    "is_military_relevant": true,
+    "text": "Regional tensions rose after navy patrol boats intercepted a fishing vessel near disputed waters."
+  },
+  {
+    "id": "navy_military_08",
+    "term": "navy",
+    "topic": "navy_military",
+    "is_military_relevant": true,
+    "text": "The navy is expanding its shipyard capacity to support a larger surface fleet."
+  },
+  {
+    "id": "navy_other_01",
+    "term": "navy",
+    "topic": "navy_other",
+    "is_military_relevant": false,
+    "text": "The new spring collection features a classic navy blazer paired with tan trousers."
+  },
+  {
+    "id": "navy_other_02",
+    "term": "navy",
+    "topic": "navy_other",
+    "is_military_relevant": false,
+    "text": "Navy Federal Credit Union announced new interest rates on its savings accounts this quarter."
+  },
+  {
+    "id": "navy_other_03",
+    "term": "navy",
+    "topic": "navy_other",
+    "is_military_relevant": false,
+    "text": "In the long-running anime, the Navy is a fictional organization that hunts pirates across the seas."
+  },
+  {
+    "id": "navy_other_04",
+    "term": "navy",
+    "topic": "navy_other",
+    "is_military_relevant": false,
+    "text": "The interior designer recommended navy walls to make the small room feel cozier."
+  },
+  {
+    "id": "navy_other_05",
+    "term": "navy",
+    "topic": "navy_other",
+    "is_military_relevant": false,
+    "text": "The band released a new single named after the color navy, inspired by late-night drives."
+  },
+  {
+    "id": "navy_other_06",
+    "term": "navy",
+    "topic": "navy_other",
+    "is_military_relevant": false,
+    "text": "Reviewers praised the laptop's navy finish as a refreshing change from standard silver models."
+  },
+  {
+    "id": "navy_other_07",
+    "term": "navy",
+    "topic": "navy_other",
+    "is_military_relevant": false,
+    "text": "The bakery's best-selling cake is decorated with navy blue frosting for graduation parties."
+  },
+  {
+    "id": "navy_other_08",
+    "term": "navy",
+    "topic": "navy_other",
+    "is_military_relevant": false,
+    "text": "A popular sneaker brand reissued its retro navy colorway for the holiday season."
+  },
+  {
+    "id": "fleet_military_01",
+    "term": "fleet",
+    "topic": "fleet_military",
+    "is_military_relevant": true,
+    "text": "The Pacific Fleet completed a multi-day readiness exercise involving over a dozen ships."
+  },
+  {
+    "id": "fleet_military_02",
+    "term": "fleet",
+    "topic": "fleet_military",
+    "is_military_relevant": true,
+    "text": "Officials confirmed the fleet would relocate two destroyers to the eastern command area."
+  },
+  {
+    "id": "fleet_military_03",
+    "term": "fleet",
+    "topic": "fleet_military",
+    "is_military_relevant": true,
+    "text": "Fleet commanders briefed reporters on the status of ongoing maritime patrol operations."
+  },
+  {
+    "id": "fleet_military_04",
+    "term": "fleet",
+    "topic": "fleet_military",
+    "is_military_relevant": true,
+    "text": "The carrier strike group is the centerpiece of the fleet's forward presence in the region."
+  },
+  {
+    "id": "fleet_military_05",
+    "term": "fleet",
+    "topic": "fleet_military",
+    "is_military_relevant": true,
+    "text": "A new fleet posture review recommended increasing the number of forward-deployed submarines."
+  },
+  {
+    "id": "fleet_military_06",
+    "term": "fleet",
+    "topic": "fleet_military",
+    "is_military_relevant": true,
+    "text": "The fleet's logistics ships resupplied the task group midway through the deployment."
+  },
+  {
+    "id": "fleet_military_07",
+    "term": "fleet",
+    "topic": "fleet_military",
+    "is_military_relevant": true,
+    "text": "Defense officials said fleet exercises this year were the largest in over a decade."
+  },
+  {
+    "id": "fleet_military_08",
+    "term": "fleet",
+    "topic": "fleet_military",
+    "is_military_relevant": true,
+    "text": "The fleet commander praised the crew's performance during the joint interoperability drill."
+  },
+  {
+    "id": "fleet_other_01",
+    "term": "fleet",
+    "topic": "fleet_other",
+    "is_military_relevant": false,
+    "text": "The rental car company expanded its fleet with a thousand new electric vehicles this year."
+  },
+  {
+    "id": "fleet_other_02",
+    "term": "fleet",
+    "topic": "fleet_other",
+    "is_military_relevant": false,
+    "text": "The delivery startup uses fleet-management software to track its vans in real time."
+  },
+  {
+    "id": "fleet_other_03",
+    "term": "fleet",
+    "topic": "fleet_other",
+    "is_military_relevant": false,
+    "text": "Fleet Street was historically the center of the British newspaper industry."
+  },
+  {
+    "id": "fleet_other_04",
+    "term": "fleet",
+    "topic": "fleet_other",
+    "is_military_relevant": false,
+    "text": "The city's bike-share fleet added two hundred new bicycles ahead of the summer season."
+  },
+  {
+    "id": "fleet_other_05",
+    "term": "fleet",
+    "topic": "fleet_other",
+    "is_military_relevant": false,
+    "text": "A logistics firm said fuel costs were the biggest expense for its trucking fleet."
+  },
+  {
+    "id": "fleet_other_06",
+    "term": "fleet",
+    "topic": "fleet_other",
+    "is_military_relevant": false,
+    "text": "The taxi fleet operator upgraded its dispatch app to reduce passenger wait times."
+  },
+  {
+    "id": "fleet_other_07",
+    "term": "fleet",
+    "topic": "fleet_other",
+    "is_military_relevant": false,
+    "text": "The airline plans to retire older aircraft from its fleet within the next five years."
+  },
+  {
+    "id": "fleet_other_08",
+    "term": "fleet",
+    "topic": "fleet_other",
+    "is_military_relevant": false,
+    "text": "The fishing cooperative's small fleet returned early due to a passing storm."
+  },
+  {
+    "id": "strike_military_01",
+    "term": "strike",
+    "topic": "strike_military",
+    "is_military_relevant": true,
+    "text": "The airstrike targeted a suspected weapons depot on the outskirts of the city."
+  },
+  {
+    "id": "strike_military_02",
+    "term": "strike",
+    "topic": "strike_military",
+    "is_military_relevant": true,
+    "text": "Officials described the operation as a precision strike against a known staging area."
+  },
+  {
+    "id": "strike_military_03",
+    "term": "strike",
+    "topic": "strike_military",
+    "is_military_relevant": true,
+    "text": "A missile strike damaged part of the port's fuel storage facility overnight."
+  },
+  {
+    "id": "strike_military_04",
+    "term": "strike",
+    "topic": "strike_military",
+    "is_military_relevant": true,
+    "text": "The coalition conducted a joint strike against positions used to launch cross-border attacks."
+  },
+  {
+    "id": "strike_military_05",
+    "term": "strike",
+    "topic": "strike_military",
+    "is_military_relevant": true,
+    "text": "Analysts said the strike package included both fighter aircraft and long-range munitions."
+  },
+  {
+    "id": "strike_military_06",
+    "term": "strike",
+    "topic": "strike_military",
+    "is_military_relevant": true,
+    "text": "The ministry of defense confirmed the strike caused no civilian casualties in the area."
+  },
+  {
+    "id": "strike_military_07",
+    "term": "strike",
+    "topic": "strike_military",
+    "is_military_relevant": true,
+    "text": "A retaliatory strike followed reports of shelling near the demilitarized zone."
+  },
+  {
+    "id": "strike_military_08",
+    "term": "strike",
+    "topic": "strike_military",
+    "is_military_relevant": true,
+    "text": "The strike was the third of its kind conducted in the region this month."
+  },
+  {
+    "id": "strike_military_09",
+    "term": "strike",
+    "topic": "strike_military",
+    "is_military_relevant": true,
+    "text": "Reconnaissance drones confirmed the target site before the strike was authorized."
+  },
+  {
+    "id": "strike_other_01",
+    "term": "strike",
+    "topic": "strike_other",
+    "is_military_relevant": false,
+    "text": "Thousands of transit workers joined the strike, halting bus and subway service citywide."
+  },
+  {
+    "id": "strike_other_02",
+    "term": "strike",
+    "topic": "strike_other",
+    "is_military_relevant": false,
+    "text": "The bowler needed just one more strike to complete a perfect game."
+  },
+  {
+    "id": "strike_other_03",
+    "term": "strike",
+    "topic": "strike_other",
+    "is_military_relevant": false,
+    "text": "A lightning strike knocked out power to several neighborhoods during the storm."
+  },
+  {
+    "id": "strike_other_04",
+    "term": "strike",
+    "topic": "strike_other",
+    "is_military_relevant": false,
+    "text": "Union leaders warned of a strike if contract negotiations failed by Friday."
+  },
+  {
+    "id": "strike_other_05",
+    "term": "strike",
+    "topic": "strike_other",
+    "is_military_relevant": false,
+    "text": "The pitcher recorded his tenth strikeout of the game in the seventh inning."
+  },
+  {
+    "id": "strike_other_06",
+    "term": "strike",
+    "topic": "strike_other",
+    "is_military_relevant": false,
+    "text": "Factory workers ended their two-week strike after reaching a new wage agreement."
+  },
+  {
+    "id": "strike_other_07",
+    "term": "strike",
+    "topic": "strike_other",
+    "is_military_relevant": false,
+    "text": "The teachers' strike closed schools across the district for a third consecutive day."
+  },
+  {
+    "id": "strike_other_08",
+    "term": "strike",
+    "topic": "strike_other",
+    "is_military_relevant": false,
+    "text": "A well-timed strike in the final round secured the boxer's unanimous decision victory."
+  },
+  {
+    "id": "carrier_military_01",
+    "term": "carrier",
+    "topic": "carrier_military",
+    "is_military_relevant": true,
+    "text": "The aircraft carrier entered the region as part of a scheduled deployment."
+  },
+  {
+    "id": "carrier_military_02",
+    "term": "carrier",
+    "topic": "carrier_military",
+    "is_military_relevant": true,
+    "text": "The carrier strike group conducted flight operations throughout the exercise."
+  },
+  {
+    "id": "carrier_military_03",
+    "term": "carrier",
+    "topic": "carrier_military",
+    "is_military_relevant": true,
+    "text": "Officials said the carrier would remain on station to support regional partners."
+  },
+  {
+    "id": "carrier_military_04",
+    "term": "carrier",
+    "topic": "carrier_military",
+    "is_military_relevant": true,
+    "text": "The new carrier-based fighter squadron completed its first operational deployment."
+  },
+  {
+    "id": "carrier_military_05",
+    "term": "carrier",
+    "topic": "carrier_military",
+    "is_military_relevant": true,
+    "text": "Satellite images showed the carrier transiting the strait alongside two escort ships."
+  },
+  {
+    "id": "carrier_military_06",
+    "term": "carrier",
+    "topic": "carrier_military",
+    "is_military_relevant": true,
+    "text": "The carrier's air wing flew a series of joint training missions with allied forces."
+  },
+  {
+    "id": "carrier_military_07",
+    "term": "carrier",
+    "topic": "carrier_military",
+    "is_military_relevant": true,
+    "text": "Defense planners are reviewing whether a second carrier should be forward-deployed."
+  },
+  {
+    "id": "carrier_military_08",
+    "term": "carrier",
+    "topic": "carrier_military",
+    "is_military_relevant": true,
+    "text": "The carrier returned to port after a six-month deployment in the region."
+  },
+  {
+    "id": "carrier_other_01",
+    "term": "carrier",
+    "topic": "carrier_other",
+    "is_military_relevant": false,
+    "text": "The mobile carrier announced a new unlimited data plan for existing customers."
+  },
+  {
+    "id": "carrier_other_02",
+    "term": "carrier",
+    "topic": "carrier_other",
+    "is_military_relevant": false,
+    "text": "Health officials said the patient was an asymptomatic carrier of the virus."
+  },
+  {
+    "id": "carrier_other_03",
+    "term": "carrier",
+    "topic": "carrier_other",
+    "is_military_relevant": false,
+    "text": "The postal carrier delivered packages an hour late due to the holiday rush."
+  },
+  {
+    "id": "carrier_other_04",
+    "term": "carrier",
+    "topic": "carrier_other",
+    "is_military_relevant": false,
+    "text": "The freight carrier reported a delay in shipments due to a port backlog."
+  },
+  {
+    "id": "carrier_other_05",
+    "term": "carrier",
+    "topic": "carrier_other",
+    "is_military_relevant": false,
+    "text": "Genetic testing can reveal whether someone is a carrier for a hereditary condition."
+  },
+  {
+    "id": "carrier_other_06",
+    "term": "carrier",
+    "topic": "carrier_other",
+    "is_military_relevant": false,
+    "text": "The insurance carrier raised premiums for homeowners in flood-prone areas."
+  },
+  {
+    "id": "carrier_other_07",
+    "term": "carrier",
+    "topic": "carrier_other",
+    "is_military_relevant": false,
+    "text": "A regional telecom carrier upgraded its towers to improve rural coverage."
+  },
+  {
+    "id": "carrier_other_08",
+    "term": "carrier",
+    "topic": "carrier_other",
+    "is_military_relevant": false,
+    "text": "The shipping carrier apologized after a container was misrouted for two weeks."
+  },
+  {
+    "id": "target_military_01",
+    "term": "target",
+    "topic": "target_military",
+    "is_military_relevant": true,
+    "text": "Analysts confirmed the coordinates matched a previously identified target."
+  },
+  {
+    "id": "target_military_02",
+    "term": "target",
+    "topic": "target_military",
+    "is_military_relevant": true,
+    "text": "The reconnaissance team spent days verifying the target before recommending action."
+  },
+  {
+    "id": "target_military_03",
+    "term": "target",
+    "topic": "target_military",
+    "is_military_relevant": true,
+    "text": "Officials said the strike was authorized only after the target was positively identified."
+  },
+  {
+    "id": "target_military_04",
+    "term": "target",
+    "topic": "target_military",
+    "is_military_relevant": true,
+    "text": "The target list was updated after new intelligence indicated a change in activity."
+  },
+  {
+    "id": "target_military_05",
+    "term": "target",
+    "topic": "target_military",
+    "is_military_relevant": true,
+    "text": "Ground forces reported the target site had been abandoned before the operation began."
+  },
+  {
+    "id": "target_military_06",
+    "term": "target",
+    "topic": "target_military",
+    "is_military_relevant": true,
+    "text": "The mission's primary target was a communications relay used by opposing forces."
+  },
+  {
+    "id": "target_military_07",
+    "term": "target",
+    "topic": "target_military",
+    "is_military_relevant": true,
+    "text": "Planners removed a site from the target list after reassessing civilian risk."
+  },
+  {
+    "id": "target_military_08",
+    "term": "target",
+    "topic": "target_military",
+    "is_military_relevant": true,
+    "text": "The unit practiced target acquisition using simulated satellite imagery."
+  },
+  {
+    "id": "target_other_01",
+    "term": "target",
+    "topic": "target_other",
+    "is_military_relevant": false,
+    "text": "The retailer Target announced expanded weekend hours ahead of the holiday season."
+  },
+  {
+    "id": "target_other_02",
+    "term": "target",
+    "topic": "target_other",
+    "is_military_relevant": false,
+    "text": "The marketing team refined its target audience to reach younger shoppers online."
+  },
+  {
+    "id": "target_other_03",
+    "term": "target",
+    "topic": "target_other",
+    "is_military_relevant": false,
+    "text": "She hit the bullseye on her first attempt at the archery range."
+  },
+  {
+    "id": "target_other_04",
+    "term": "target",
+    "topic": "target_other",
+    "is_military_relevant": false,
+    "text": "The startup set an ambitious revenue target for the upcoming fiscal year."
+  },
+  {
+    "id": "target_other_05",
+    "term": "target",
+    "topic": "target_other",
+    "is_military_relevant": false,
+    "text": "Investors questioned whether the company's growth target was realistic."
+  },
+  {
+    "id": "target_other_06",
+    "term": "target",
+    "topic": "target_other",
+    "is_military_relevant": false,
+    "text": "The fitness app lets users set a daily step target and track their progress."
+  },
+  {
+    "id": "target_other_07",
+    "term": "target",
+    "topic": "target_other",
+    "is_military_relevant": false,
+    "text": "The nonprofit exceeded its fundraising target within the first week of the campaign."
+  },
+  {
+    "id": "target_other_08",
+    "term": "target",
+    "topic": "target_other",
+    "is_military_relevant": false,
+    "text": "The archery club is building a new outdoor target range for members."
+  },
+  {
+    "id": "mission_military_01",
+    "term": "mission",
+    "topic": "mission_military",
+    "is_military_relevant": true,
+    "text": "The reconnaissance mission gathered imagery of the contested border region."
+  },
+  {
+    "id": "mission_military_02",
+    "term": "mission",
+    "topic": "mission_military",
+    "is_military_relevant": true,
+    "text": "Commanders described the operation as the unit's most complex mission this year."
+  },
+  {
+    "id": "mission_military_03",
+    "term": "mission",
+    "topic": "mission_military",
+    "is_military_relevant": true,
+    "text": "The mission was delayed twenty-four hours due to poor visibility over the target area."
+  },
+  {
+    "id": "mission_military_04",
+    "term": "mission",
+    "topic": "mission_military",
+    "is_military_relevant": true,
+    "text": "Special operations forces completed a joint training mission with a regional partner."
+  },
+  {
+    "id": "mission_military_05",
+    "term": "mission",
+    "topic": "mission_military",
+    "is_military_relevant": true,
+    "text": "The mission debrief highlighted several lessons for future joint operations."
+  },
+  {
+    "id": "mission_military_06",
+    "term": "mission",
+    "topic": "mission_military",
+    "is_military_relevant": true,
+    "text": "Officials said the mission's objective was to disrupt a known smuggling route."
+  },
+  {
+    "id": "mission_military_07",
+    "term": "mission",
+    "topic": "mission_military",
+    "is_military_relevant": true,
+    "text": "The squadron flew a night mission to support ground forces near the border."
+  },
+  {
+    "id": "mission_military_08",
+    "term": "mission",
+    "topic": "mission_military",
+    "is_military_relevant": true,
+    "text": "The unit's after-action report credited careful planning for the mission's success."
+  },
+  {
+    "id": "mission_other_01",
+    "term": "mission",
+    "topic": "mission_other",
+    "is_military_relevant": false,
+    "text": "The nonprofit's mission statement emphasizes access to clean water worldwide."
+  },
+  {
+    "id": "mission_other_02",
+    "term": "mission",
+    "topic": "mission_other",
+    "is_military_relevant": false,
+    "text": "NASA's next mission will study the composition of a distant asteroid."
+  },
+  {
+    "id": "mission_other_03",
+    "term": "mission",
+    "topic": "mission_other",
+    "is_military_relevant": false,
+    "text": "The furniture store's mission-style dining set is a bestseller this season."
+  },
+  {
+    "id": "mission_other_04",
+    "term": "mission",
+    "topic": "mission_other",
+    "is_military_relevant": false,
+    "text": "The church group organized a two-week mission trip to build homes abroad."
+  },
+  {
+    "id": "mission_other_05",
+    "term": "mission",
+    "topic": "mission_other",
+    "is_military_relevant": false,
+    "text": "The startup's new mission focuses on reducing food waste in grocery supply chains."
+  },
+  {
+    "id": "mission_other_06",
+    "term": "mission",
+    "topic": "mission_other",
+    "is_military_relevant": false,
+    "text": "The museum's latest exhibit traces the history of early space missions."
+  },
+  {
+    "id": "mission_other_07",
+    "term": "mission",
+    "topic": "mission_other",
+    "is_military_relevant": false,
+    "text": "The volunteer group's mission is to mentor first-generation college students."
+  },
+  {
+    "id": "mission_other_08",
+    "term": "mission",
+    "topic": "mission_other",
+    "is_military_relevant": false,
+    "text": "The film follows a rescue mission set during a fictional natural disaster."
+  }
+]
