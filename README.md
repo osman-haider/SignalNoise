@@ -147,3 +147,33 @@ Then run `python scripts/build_embeddings.py` once against the running
 container's environment (or bake a pre-built `cache/corpus_embeddings.npy`
 into the image) — see the comment in `Dockerfile` for why this is a
 deliberate runtime step rather than a build-time one.
+
+### Vercel
+
+Vercel's Python runtime gives the deployed function a **read-only**
+filesystem (only `/tmp` is writable, and it's ephemeral per instance) and
+has no arbitrary build step whose output gets reliably attached back to the
+function bundle. That means `scripts/generate_corpus.py` and
+`scripts/build_embeddings.py` can't run as part of the Vercel build/start
+the way they can with Docker.
+
+Because the corpus is small and fixed, the fix is to generate everything
+**locally** and commit the results, so they ship as static files inside the
+deployment bundle (Vercel bundles every file in the repo for Python
+functions, not just imported ones):
+
+```bash
+python scripts/generate_corpus.py
+python scripts/build_embeddings.py
+git add data/corpus.json data/eval_queries.json cache/corpus_embeddings.npy cache/corpus_embeddings.meta.json
+git commit -m "Regenerate corpus and embeddings cache"
+git push
+```
+
+`app/search_engine.py` only ever *reads* `cache/corpus_embeddings.npy` at
+request time — it never tries to (re)build it — so this is safe on a
+read-only filesystem. Whenever `data/corpus.json` changes, rerun both
+scripts and commit the updated cache alongside it; if the cache doesn't
+match the current corpus hash, the app degrades to lexical-only search
+instead of erroring, but the fix is always "regenerate and recommit," not a
+runtime rebuild.

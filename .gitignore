@@ -3,6 +3,4 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-cache/*.npy
-cache/*.meta.json
 .DS_Store
