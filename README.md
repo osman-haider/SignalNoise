@@ -52,7 +52,7 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
 cp .env.example .env
-# then edit .env and set OPENAI_API_KEY (and OPENAI_BASE_URL / OPENAI_MODEL_NAME
+# then edit .env and set OFFICIAL_OPENAI_API_KEY (and OFFICIAL_OPENAI_BASE_URL / OFFICIAL_OPENAI_MODEL_NAME
 # if you're not using the default OpenAI endpoint/model)
 ```
 

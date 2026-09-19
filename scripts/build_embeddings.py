@@ -32,7 +32,7 @@ def main() -> None:
         vectors = build_and_cache_corpus_embeddings(texts)
     except EmbeddingUnavailable as exc:
         print(f"ERROR: could not build corpus embeddings: {exc}")
-        print("Check OPENAI_API_KEY / OPENAI_BASE_URL / EMBEDDING_MODEL_NAME in your .env.")
+        print("Check OFFICIAL_OPENAI_API_KEY / OFFICIAL_OPENAI_BASE_URL / OFFICIAL_EMBEDDING_MODEL_NAME in your .env.")
         raise SystemExit(1)
 
     print(f"Done. Cached {vectors.shape[0]} vectors of dimension {vectors.shape[1]} "

@@ -9,7 +9,7 @@ COPY . .
 
 # Generate the synthetic corpus/eval set at build time (deterministic, no
 # network needed). Corpus embeddings are NOT built here on purpose -- that
-# needs OPENAI_API_KEY, which should be a runtime secret, not a build-time
+# needs OFFICIAL_OPENAI_API_KEY, which should be a runtime secret, not a build-time
 # one. Run scripts/build_embeddings.py once after the container is up
 # (e.g. via a one-off `docker exec`), or on first request the app will
 # simply run in degraded (lexical-only) hybrid mode until you do.

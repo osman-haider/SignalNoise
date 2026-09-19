@@ -35,10 +35,10 @@ class Settings:
 
 def load_settings() -> Settings:
     return Settings(
-        openai_api_key=os.getenv("OPENAI_API_KEY"),
-        openai_base_url=os.getenv("OPENAI_BASE_URL") or None,
-        openai_model_name=os.getenv("OPENAI_MODEL_NAME", "gpt-4o-mini"),
-        embedding_model_name=os.getenv("EMBEDDING_MODEL_NAME", "text-embedding-3-small"),
+        openai_api_key=os.getenv("OFFICIAL_OPENAI_API_KEY"),
+        openai_base_url=os.getenv("OFFICIAL_OPENAI_BASE_URL") or None,
+        openai_model_name=os.getenv("OFFICIAL_OPENAI_MODEL_NAME", "gpt-4o-mini"),
+        embedding_model_name=os.getenv("OFFICIAL_EMBEDDING_MODEL_NAME", "text-embedding-3-small"),
         # Fixed, short "who is searching and why" string fed to the disambiguation
         # prompt so the model has a consistent frame of reference. Kept simple and
         # constant on purpose -- see the demo spec for why.

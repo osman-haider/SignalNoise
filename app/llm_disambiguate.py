@@ -68,7 +68,7 @@ class DisambiguationResult:
 
 def _client() -> OpenAI:
     if not settings.openai_api_key:
-        raise DisambiguationUnavailable("OPENAI_API_KEY is not set")
+        raise DisambiguationUnavailable("OFFICIAL_OPENAI_API_KEY is not set")
     kwargs = {"api_key": settings.openai_api_key}
     if settings.openai_base_url:
         kwargs["base_url"] = settings.openai_base_url
