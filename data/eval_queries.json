@@ -1,0 +1,163 @@
+[
+  {
+    "id": "q_navy",
+    "query": "navy",
+    "kind": "ambiguous",
+    "relevant_doc_ids": [
+      "navy_military_01",
+      "navy_military_02",
+      "navy_military_03",
+      "navy_military_04",
+      "navy_military_05",
+      "navy_military_06",
+      "navy_military_07",
+      "navy_military_08"
+    ],
+    "grade": 2
+  },
+  {
+    "id": "q_fleet",
+    "query": "fleet",
+    "kind": "ambiguous",
+    "relevant_doc_ids": [
+      "fleet_military_01",
+      "fleet_military_02",
+      "fleet_military_03",
+      "fleet_military_04",
+      "fleet_military_05",
+      "fleet_military_06",
+      "fleet_military_07",
+      "fleet_military_08"
+    ],
+    "grade": 2
+  },
+  {
+    "id": "q_strike",
+    "query": "strike",
+    "kind": "ambiguous",
+    "relevant_doc_ids": [
+      "strike_military_01",
+      "strike_military_02",
+      "strike_military_03",
+      "strike_military_04",
+      "strike_military_05",
+      "strike_military_06",
+      "strike_military_07",
+      "strike_military_08",
+      "strike_military_09"
+    ],
+    "grade": 2
+  },
+  {
+    "id": "q_carrier",
+    "query": "carrier",
+    "kind": "ambiguous",
+    "relevant_doc_ids": [
+      "carrier_military_01",
+      "carrier_military_02",
+      "carrier_military_03",
+      "carrier_military_04",
+      "carrier_military_05",
+      "carrier_military_06",
+      "carrier_military_07",
+      "carrier_military_08"
+    ],
+    "grade": 2
+  },
+  {
+    "id": "q_target",
+    "query": "target",
+    "kind": "ambiguous",
+    "relevant_doc_ids": [
+      "target_military_01",
+      "target_military_02",
+      "target_military_03",
+      "target_military_04",
+      "target_military_05",
+      "target_military_06",
+      "target_military_07",
+      "target_military_08"
+    ],
+    "grade": 2
+  },
+  {
+    "id": "q_mission",
+    "query": "mission",
+    "kind": "ambiguous",
+    "relevant_doc_ids": [
+      "mission_military_01",
+      "mission_military_02",
+      "mission_military_03",
+      "mission_military_04",
+      "mission_military_05",
+      "mission_military_06",
+      "mission_military_07",
+      "mission_military_08"
+    ],
+    "grade": 2
+  },
+  {
+    "id": "q_control_carrier_strike_group",
+    "query": "aircraft carrier strike group deployment",
+    "kind": "control",
+    "relevant_doc_ids": [
+      "carrier_military_01",
+      "carrier_military_02",
+      "carrier_military_03",
+      "carrier_military_04",
+      "carrier_military_05",
+      "carrier_military_06",
+      "carrier_military_07",
+      "carrier_military_08"
+    ],
+    "grade": 2
+  },
+  {
+    "id": "q_control_labor_strike",
+    "query": "labor union strike negotiations",
+    "kind": "control",
+    "relevant_doc_ids": [
+      "strike_other_01",
+      "strike_other_02",
+      "strike_other_03",
+      "strike_other_04",
+      "strike_other_05",
+      "strike_other_06",
+      "strike_other_07",
+      "strike_other_08"
+    ],
+    "grade": 2
+  },
+  {
+    "id": "q_control_navy_blazer",
+    "query": "navy blazer fashion",
+    "kind": "control",
+    "relevant_doc_ids": [
+      "navy_other_01",
+      "navy_other_02",
+      "navy_other_03",
+      "navy_other_04",
+      "navy_other_05",
+      "navy_other_06",
+      "navy_other_07",
+      "navy_other_08"
+    ],
+    "grade": 2
+  },
+  {
+    "id": "q_control_reconnaissance_mission",
+    "query": "reconnaissance mission border region",
+    "kind": "control",
+    "relevant_doc_ids": [
+      "mission_military_01",
+      "mission_military_02",
+      "mission_military_03",
+      "mission_military_04",
+      "mission_military_05",
+      "mission_military_06",
+      "mission_military_07",
+      "mission_military_08"
+    ],
+    "grade": 2
+  }
+]
